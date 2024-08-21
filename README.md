@@ -53,3 +53,7 @@ This will generate optimized files in the `build` directory.
 
 - Make sure to configure any necessary environment variables in a `.env` file.
 - Refer to the `package.json` for additional scripts.
+
+## Screenshot
+![About page ](src/components/Screenshot/screenshot.jpeg)
+![About page ](src/components/Screenshot/Screenshot.png)
